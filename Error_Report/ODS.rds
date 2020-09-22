@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ODS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=atl-sql01.vr.vanran.com;Initial Catalog=ODS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>10d67277-d288-4854-b6a3-15cf947597d2</DataSourceID>
+</RptDataSource>
